@@ -323,6 +323,8 @@ STOCK_TOOL_IMAGES = \
 	tools/stock-tool-measure-22.png			\
 	tools/stock-tool-move-16.png			\
 	tools/stock-tool-move-22.png			\
+	tools/stock-tool-mybrush-16.png			\
+	tools/stock-tool-mybrush-22.png			\
 	tools/stock-tool-paintbrush-16.png		\
 	tools/stock-tool-paintbrush-22.png		\
 	tools/stock-tool-path-16.png			\
